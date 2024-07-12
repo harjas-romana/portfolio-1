@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bed1e985.css",
+    "main.js": "/static/js/main.2762b8c0.js",
+    "static/media/diabetes.png": "/static/media/diabetes.58110ba47173e4c5fdbd.png",
+    "static/media/admin.png": "/static/media/admin.5bb7ed7e9451ea4ca7b1.png",
+    "static/media/cba.png": "/static/media/cba.95ddd163f6a4456e5129.png",
+    "static/media/profile-pic.png": "/static/media/profile-pic.16daba9614179d5681be.png",
+    "static/media/movie.png": "/static/media/movie.4d1d9a7ca315a30f64a9.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/static/media/logo.7aa350fbcc6797a9a720.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.bed1e985.css.map": "/static/css/main.bed1e985.css.map",
+    "main.2762b8c0.js.map": "/static/js/main.2762b8c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bed1e985.css",
+    "static/js/main.2762b8c0.js"
+  ]
+}
